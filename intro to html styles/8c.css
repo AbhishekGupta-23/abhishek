@@ -1,0 +1,17 @@
+.firstname,
+.lastname {
+    border-radius: 3px;
+    border-width: 1px;
+    font-size: 13px;
+    color: gray;
+    width: 150px;
+    border-color: rgb(200, 200, 200);
+}
+.em-text {
+    border-radius: 3px;
+    border-width: 1px;
+    font-size: 13px;
+    color: gray;
+    display: block;
+    width: 300px;
+}
